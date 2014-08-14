@@ -6,3 +6,6 @@ add one line
 add two line
 
 update to orignal master
+
+
+creating a new branch is quick.
